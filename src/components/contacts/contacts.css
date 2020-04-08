@@ -1,0 +1,59 @@
+.contact-book {
+  background-color: #ccc;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+  padding: 20px 15px;
+}
+
+.contact-book-form {
+  margin-bottom: 30px;
+}
+
+.contact-book-form input {
+  width: 100%;
+  background-color : #ffd75d; 
+}
+
+.contact-book-form input:focus {
+  outline: none;
+}
+
+.form-check-inline .form-check-input {
+  margin-right: 1rem;
+  margin-bottom: -5px;
+}
+
+.checkbox-container {
+  text-align: center;
+}
+
+.contact-card {
+  margin-bottom: 20px;
+  padding: 5px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+.contact-card:last-child {
+  margin-bottom: 0px;
+}
+
+.contact-card:hover {
+  background-color: rgba(255,255,255,0.7);
+  cursor: pointer;
+}
+
+.contact-icon {
+  width: 100%;
+  max-width: 20px;
+  margin-right: 2rem;
+}
+
+.contact-card-info {
+  margin: 0;
+}
+
+.contact-card-info span {
+  display: inline-block;
+  font-size: 80%;
+}
